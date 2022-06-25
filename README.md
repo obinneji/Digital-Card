@@ -1,4 +1,4 @@
-# Song Lyrics App
+# My Digital Card
 
 This is a single page digital card created with ReactJs. understanding of Components and styling in react is was the aim of creating this car
 
@@ -24,7 +24,7 @@ This is a single page digital card created with ReactJs. understanding of Compon
 
 ### Links
 
-- Solution URL: [Github Repository](https://github.com/obinneji/songlyrics-app/)
+- Solution URL: [Github Repository](https://github.com/obinneji/Digital-Card/)
 - Live Site URL: [Songlyrics-app](https://songlyrics-app.vercel.app/)
 
 ## My process
