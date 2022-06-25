@@ -1,5 +1,4 @@
 import React from 'react'
-import userImage from '../images/chibuzor-obinneji.jpeg'
 import { FaEnvelope } from "react-icons/fa"
 import {FaLinkedin } from "react-icons/fa"
  
@@ -7,7 +6,7 @@ import {FaLinkedin } from "react-icons/fa"
 const Info = () => {
   return (
     <header>
-      <img src={userImage} alt = "owner" className='user-image' />
+      <img src= '../images/chibuzor-obinneji.jpeg' alt = "owner" className='user-image' />
       <h2 className='user-name'>Obinneji Chibuzor</h2>
       <p className='user-title'>Frontend Developer</p>
       <p className='user-website'>ObinnejiChibuzor.com</p>
