@@ -31,7 +31,7 @@ This card diaplays information of the user(chibuzor) which include
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/obinneji/Digital-Card/)
-- Live Site URL: [Songlyrics-app](https://digital-card-lime.vercel.app/)
+- Live Site URL: [Digital Card](https://digital-card-lime.vercel.app/)
 
 ## My process
 - Created a react App
