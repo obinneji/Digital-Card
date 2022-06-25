@@ -14,9 +14,15 @@ This is a single page digital card created with ReactJs. understanding of Compon
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+This card diaplays information of the user(chibuzor) which include
+- Image and Role
+- user linkedin and emial contact
+- About user
+- users intrest
+- user social media address
+
 
 ## Screenshot
 
@@ -25,7 +31,7 @@ This is a single page digital card created with ReactJs. understanding of Compon
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/obinneji/Digital-Card/)
-- Live Site URL: [Songlyrics-app](https://songlyrics-app.vercel.app/)
+- Live Site URL: [Songlyrics-app](https://digital-card-lime.vercel.app/)
 
 ## My process
 - Created a react App
